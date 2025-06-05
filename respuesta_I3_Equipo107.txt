@@ -26,5 +26,11 @@ F. Paso a paso como lo hice
 5. git commit -m "cree2"
 6. git push
 
-
+G. Paso a paso como lo hice
+1. git pull para actualizar el repositorio local
+2. usar el echo -e "Nombre: Franco Di Toro \nHora:13:00" >> beta.txt
+3. usar ipconfig >> beta.txt
+4. git add .
+5. git commit -m "cree3"
+6. git push
 
