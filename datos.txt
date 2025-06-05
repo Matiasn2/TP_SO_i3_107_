@@ -2,3 +2,7 @@ Nombre: Gonzalo Coronel
 IP: 192.168.1.44
 Hora: 12:04hs
 
+Nombre: Franco Di Toro
+IP:192.168.1.60
+Hora: 12:17hs
+
