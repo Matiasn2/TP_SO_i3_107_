@@ -1,0 +1,9 @@
+Respuestas:
+A- Con todos los archivos
+B- Si
+C- 
+1. git checkout main
+2. git merge coronel
+3. git add .
+4. git commit -m 'agregar archivo'
+5. git push
