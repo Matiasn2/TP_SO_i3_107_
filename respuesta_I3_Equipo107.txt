@@ -1,9 +1,30 @@
+Alumnos:
+- Coronel Gonzalo
+- Di Toro Franco
+- Doracio Matias
 Respuestas:
-A- Con todos los archivos
-B- Si
-C- 
+A. Con todos los archivos
+
+B. Si
+
+C. Los pasos son: 
 1. git checkout main
 2. git merge coronel
 3. git add .
 4. git commit -m 'agregar archivo'
 5. git push
+
+D. Si
+
+E. Ninguno, somos buenisimos
+
+F. Paso a paso como lo hice
+1. git pull para actualizar el repositorio local
+2. usar el echo -e "Nombre: Gonzalo Coronel\nHora:13:00" >> beta.txt
+3. usar ipconfig >> beta.txt
+4. git add .
+5. git commit -m "cree2"
+6. git push
+
+
+
