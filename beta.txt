@@ -40,3 +40,30 @@ Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
    Direcci¢n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:1ca7:27ad:4197:158a
    V¡nculo: direcci¢n IPv6 local. . . : fe80::1ca7:27ad:4197:158a%15
    Puerta de enlace predeterminada . . . . . : ::
+
+
+Nombre: Gonzalo Coronel
+Hora: 13:00
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2802:8010:6211:1401:f743:ad89:d243:957a
+   Temporary IPv6 Address. . . . . . : 2802:8010:6211:1401:75ad:7d68:fa6e:2f7d
+   Temporary IPv6 Address. . . . . . : 2802:8010:6211:1401:f989:f27f:ab19:a5c7
+   Link-local IPv6 Address . . . . . : fe80::9d7a:f80d:da76:78c5%9
+   IPv4 Address. . . . . . . . . . . : 192.168.1.44
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::fe12:63ff:fe0c:f610%9
+                                       192.168.1.1
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::9b3c:e761:af7f:e807%40
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
